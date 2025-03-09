@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|c:\\users\\ardas\\onedrive\\belgeler\\github\\c#\\followcoin\\followcoin\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|solutionrelative:followcoin\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|c:\\users\\ardas\\onedrive\\belgeler\\github\\c#\\followcoin\\followcoin\\addtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|solutionrelative:followcoin\\addtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|c:\\users\\ardas\\onedrive\\belgeler\\github\\c#\\followcoin\\followcoin\\portofolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|solutionrelative:followcoin\\portofolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|solutionrelative:followcoin\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\addtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|solutionrelative:followcoin\\addtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\portofolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|solutionrelative:followcoin\\portofolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|c:\\users\\ardas\\onedrive\\belgeler\\github\\c#\\followcoin\\followcoin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|solutionrelative:followcoin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|c:\\users\\ardas\\onedrive\\belgeler\\github\\c#\\followcoin\\followcoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|solutionrelative:followcoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|solutionrelative:followcoin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|c:\\users\\ardas\\onedrive\\belgeler\\github\\c#\\followcoin\\followcoin\\portofolio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|solutionrelative:followcoin\\portofolio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|c:\\users\\ardas\\onedrive\\belgeler\\github\\c#\\followcoin\\followcoin\\addtoken.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50137536-1428-4541-91F3-0EA4A409BF4C}|followcoin\\followcoin.csproj|solutionrelative:followcoin\\addtoken.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 329,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\Form1.cs",
+              "RelativeDocumentMoniker": "followcoin\\Form1.cs",
+              "ToolTip": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\Form1.cs",
+              "RelativeToolTip": "followcoin\\Form1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:09:48.446Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:650940817:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "portofolio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\portofolio.cs",
+              "RelativeDocumentMoniker": "followcoin\\portofolio.cs",
+              "ToolTip": "C:\\Users\\ardas\\source\\repos\\followcoin\\followcoin\\portofolio.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\followcoin\\followcoin\\portofolio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:23:32.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddToken.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\AddToken.cs",
+              "RelativeDocumentMoniker": "followcoin\\AddToken.cs",
+              "ToolTip": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\AddToken.cs [Design]",
+              "RelativeToolTip": "followcoin\\AddToken.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:46:04.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationForm.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\ApplicationForm.cs",
+              "RelativeDocumentMoniker": "followcoin\\ApplicationForm.cs",
+              "ToolTip": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\ApplicationForm.cs",
+              "RelativeToolTip": "followcoin\\ApplicationForm.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:59:26.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddToken.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\AddToken.cs",
+              "RelativeDocumentMoniker": "followcoin\\AddToken.cs",
+              "ToolTip": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\AddToken.cs",
+              "RelativeToolTip": "followcoin\\AddToken.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowMgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:31:31.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "portofolio.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\portofolio.cs",
+              "RelativeDocumentMoniker": "followcoin\\portofolio.cs",
+              "ToolTip": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\portofolio.cs",
+              "RelativeToolTip": "followcoin\\portofolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:57:48.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\ApplicationForm.cs",
+              "RelativeDocumentMoniker": "followcoin\\ApplicationForm.cs",
+              "ToolTip": "C:\\Users\\ardas\\source\\repos\\followcoin\\followcoin\\ApplicationForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\followcoin\\followcoin\\ApplicationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:09:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\Program.cs",
+              "RelativeDocumentMoniker": "followcoin\\Program.cs",
+              "ToolTip": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\Program.cs",
+              "RelativeToolTip": "followcoin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:37:57.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddToken.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\AddToken.Designer.cs",
+              "RelativeDocumentMoniker": "followcoin\\AddToken.Designer.cs",
+              "ToolTip": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\AddToken.Designer.cs",
+              "RelativeToolTip": "followcoin\\AddToken.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:37:22.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\Form1.cs",
+              "RelativeDocumentMoniker": "followcoin\\Form1.cs",
+              "ToolTip": "C:\\Users\\ardas\\source\\repos\\followcoin\\followcoin\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\followcoin\\followcoin\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:31:52.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "portofolio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\portofolio.Designer.cs",
+              "RelativeDocumentMoniker": "followcoin\\portofolio.Designer.cs",
+              "ToolTip": "C:\\Users\\ardas\\OneDrive\\Belgeler\\github\\C#\\followcoin\\followcoin\\portofolio.Designer.cs",
+              "RelativeToolTip": "followcoin\\portofolio.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:23:31.044Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
